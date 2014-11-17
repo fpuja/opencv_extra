@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<sal_statiSaliencySpectralResidual--statiSaliencySpectralResidual---cv-saliency-static_saliency-8-jpg->
+  <saliencyMap>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>6.6627643536776304e-04</min>
+    <max>9.9178844690322876e-01</max>
+    <last>
+      <x>799</x>
+      <y>599</y>
+      <val>6.4103879034519196e-02</val></last>
+    <rng1>
+      <x>560</x>
+      <y>499</y>
+      <val>3.0056424438953400e-03</val></rng1>
+    <rng2>
+      <x>104</x>
+      <y>82</y>
+      <val>7.9484969377517700e-02</val></rng2></saliencyMap></sal_statiSaliencySpectralResidual--statiSaliencySpectralResidual---cv-saliency-static_saliency-8-jpg->
+<sal_statiSaliencySpectralResidual--statiSaliencySpectralResidual---cv-saliency-static_saliency-39-jpg->
+  <saliencyMap>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>2.2109206765890121e-03</min>
+    <max>9.9570572376251221e-01</max>
+    <last>
+      <x>392</x>
+      <y>599</y>
+      <val>1.4765166677534580e-02</val></last>
+    <rng1>
+      <x>85</x>
+      <y>528</y>
+      <val>1.2209229171276093e-02</val></rng1>
+    <rng2>
+      <x>318</x>
+      <y>564</y>
+      <val>2.9910951852798462e-01</val></rng2></saliencyMap></sal_statiSaliencySpectralResidual--statiSaliencySpectralResidual---cv-saliency-static_saliency-39-jpg->
+<sal_statiSaliencySpectralResidual--statiSaliencySpectralResidual---cv-saliency-static_saliency-41-jpg->
+  <saliencyMap>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>2.8031910769641399e-03</min>
+    <max>9.9887859821319580e-01</max>
+    <last>
+      <x>799</x>
+      <y>533</y>
+      <val>3.6291126161813736e-02</val></last>
+    <rng1>
+      <x>599</x>
+      <y>242</y>
+      <val>4.5547086000442505e-01</val></rng1>
+    <rng2>
+      <x>230</x>
+      <y>429</y>
+      <val>5.7356547564268112e-02</val></rng2></saliencyMap></sal_statiSaliencySpectralResidual--statiSaliencySpectralResidual---cv-saliency-static_saliency-41-jpg->
+<sal_statiSaliencySpectralResidual--statiSaliencySpectralResidual---cv-saliency-static_saliency-62-jpg->
+  <saliencyMap>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>5.2456073462963104e-03</min>
+    <max>9.8621696233749390e-01</max>
+    <last>
+      <x>480</x>
+      <y>320</y>
+      <val>2.9113847762346268e-02</val></last>
+    <rng1>
+      <x>158</x>
+      <y>202</y>
+      <val>3.1615011394023895e-02</val></rng1>
+    <rng2>
+      <x>430</x>
+      <y>184</y>
+      <val>5.2114259451627731e-02</val></rng2></saliencyMap></sal_statiSaliencySpectralResidual--statiSaliencySpectralResidual---cv-saliency-static_saliency-62-jpg->
+ <!-- resumed -->
+
+<sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----blizzard---1->
+  <totalSalMap>
+    <kind>327680</kind></totalSalMap></sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----blizzard---1->
+ <!-- resumed -->
+
+<sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----cv-saliency-motion-blizzard-webm->
+  <saliencyMap>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>1.</min>
+    <max>1.</max>
+    <last>
+      <x>719</x>
+      <y>479</y>
+      <val>1.</val></last>
+    <rng1>
+      <x>689</x>
+      <y>362</y>
+      <val>1.</val></rng1>
+    <rng2>
+      <x>256</x>
+      <y>328</y>
+      <val>1.</val></rng2></saliencyMap></sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----cv-saliency-motion-blizzard-webm->
+ <!-- resumed -->
+
+<sal_objectnessBING--objectnessBING---cv-saliency-objectness-000021-jpg->
+  <bbs_mat>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>0.</max>
+    <last>
+      <x>3</x>
+      <y>9182</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>0</x>
+      <y>7009</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>0</x>
+      <y>5243</y>
+      <val>0.</val></rng2></bbs_mat></sal_objectnessBING--objectnessBING---cv-saliency-objectness-000021-jpg->
+ <!-- resumed -->
+
+<sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----cv-saliency-motion-pedestrian-webm->
+  <saliencyMap>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>1.</min>
+    <max>1.</max>
+    <last>
+      <x>359</x>
+      <y>239</y>
+      <val>1.</val></last>
+    <rng1>
+      <x>313</x>
+      <y>112</y>
+      <val>1.</val></rng1>
+    <rng2>
+      <x>330</x>
+      <y>134</y>
+      <val>1.</val></rng2></saliencyMap></sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----cv-saliency-motion-pedestrian-webm->
+</opencv_storage>
