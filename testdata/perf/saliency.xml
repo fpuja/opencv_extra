@@ -74,31 +74,6 @@
       <val>5.2114259451627731e-02</val></rng2></saliencyMap></sal_statiSaliencySpectralResidual--statiSaliencySpectralResidual---cv-saliency-static_saliency-62-jpg->
  <!-- resumed -->
 
-<sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----blizzard---1->
-  <totalSalMap>
-    <kind>327680</kind></totalSalMap></sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----blizzard---1->
- <!-- resumed -->
-
-<sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----cv-saliency-motion-blizzard-webm->
-  <saliencyMap>
-    <kind>65536</kind>
-    <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
-    <last>
-      <x>719</x>
-      <y>479</y>
-      <val>1.</val></last>
-    <rng1>
-      <x>689</x>
-      <y>362</y>
-      <val>1.</val></rng1>
-    <rng2>
-      <x>256</x>
-      <y>328</y>
-      <val>1.</val></rng2></saliencyMap></sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----cv-saliency-motion-blizzard-webm->
- <!-- resumed -->
-
 <sal_objectnessBING--objectnessBING---cv-saliency-objectness-000021-jpg->
   <bbs_mat>
     <kind>65536</kind>
@@ -122,7 +97,7 @@
 <sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----cv-saliency-motion-pedestrian-webm->
   <saliencyMap>
     <kind>65536</kind>
-    <type>5</type>
+    <type>0</type>
     <min>1.</min>
     <max>1.</max>
     <last>
@@ -130,11 +105,11 @@
       <y>239</y>
       <val>1.</val></last>
     <rng1>
-      <x>313</x>
-      <y>112</y>
+      <x>94</x>
+      <y>211</y>
       <val>1.</val></rng1>
     <rng2>
-      <x>330</x>
-      <y>134</y>
+      <x>10</x>
+      <y>144</y>
       <val>1.</val></rng2></saliencyMap></sal_motionSaliencyBinWangApr2014--motionSaliencyBinWangApr2014----cv-saliency-motion-pedestrian-webm->
 </opencv_storage>
